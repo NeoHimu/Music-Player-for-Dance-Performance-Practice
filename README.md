@@ -11,7 +11,7 @@ This is particularly useful for dancers who repeatedly want to play a part of th
 # Screen1
 
 
-![alt text](https://github.com/NeoHimu/Music-Player-for-Dance-Performance-Practice/blob/master/screen1.jpeg)
+![alt text](screen1.jpeg)
 
 
 
@@ -26,5 +26,5 @@ This is particularly useful for dancers who repeatedly want to play a part of th
 # Screen2
 
 
-![alt text](https://github.com/NeoHimu/Music-Player-for-Dance-Performance-Practice/blob/master/screen2.jpeg)
+![alt text](screen2.jpeg)
 
